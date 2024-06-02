@@ -14,7 +14,6 @@ What you get is:
 - Use of modern CMake for building and compiling
 - External libraries installed and managed by
   - [CPM](https://github.com/cpm-cmake/CPM.cmake) Package Manager **OR**
-  - [Conan](https://conan.io/) Package Manager **OR**
 - Unit testing using [Catch2](https://github.com/catchorg/Catch2) v2
 - General purpose libraries: [JSON](https://github.com/nlohmann/json), [spdlog](https://github.com/gabime/spdlog), [cxxopts](https://github.com/jarro2783/cxxopts) and [fmt](https://github.com/fmtlib/fmt)
 - Continuous integration testing with Github Actions and [pre-commit](https://pre-commit.com/)

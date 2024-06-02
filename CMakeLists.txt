@@ -12,7 +12,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # Options
-option(USE_CONAN "Whether to use Conan." OFF)
 option(USE_CPM "Whether to use CPM." ON)
 
 option(ENABLE_WARNINGS "Enable to add warnings to a target." ON)
