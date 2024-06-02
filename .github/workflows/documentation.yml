@@ -4,8 +4,9 @@ on:
   push:
     tags:
       - "*"
-    branches: [ main, master ]
-
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 jobs:
   build:
     name: Build and publish documentation
